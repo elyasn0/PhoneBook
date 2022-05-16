@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PhoneBook</string>
+    <string name="hello">Тестовое задание Дементеев</string>
+    <string name="plain_text_name">Имя</string>
+    <string name="button_show_info">Информация об устройстве</string>
+    <string name="button_search">Поиск!</string>
+    <string name="button_add">Добавить!</string>
+    <string name="button_clean">Очистить!</string>
+    <!--кнопки-->
+    <string name="button_back">Назад</string>
+
+
+</resources>
