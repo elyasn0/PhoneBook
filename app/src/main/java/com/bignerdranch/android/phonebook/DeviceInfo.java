@@ -14,7 +14,7 @@ public class DeviceInfo extends AppCompatActivity {
         setContentView(R.layout.activity_device_info);
 
         TextView textView =findViewById(R.id.text_device_info);
-        textView.setText(new StringBuilder().append("Инвормация об устройстве:\n").append("Бренд: ").
+        textView.setText(new StringBuilder().append("Информация об устройстве:\n").append("Бренд: ").
                 append(Build.PRODUCT).append("\n").append("Модель: ").append(Build.DEVICE).append("\n").
                 append("Сборка: ").append(Build.MANUFACTURER).append("\n").append("Версия ОС: ").
                 append(Build.VERSION.SDK_INT).toString()

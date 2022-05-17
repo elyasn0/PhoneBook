@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PhoneBook">
         <activity
+            android:name=".NewContactActivity"
+            android:exported="false" />
+        <activity
             android:name=".DeviceInfo"
             android:exported="false" />
         <activity
